@@ -8,4 +8,4 @@ Proyecto desarrollado como práctica de programación utilizando POO.
 - Uso de clases, atributos y métodos
 
 ## Tecnologías
-- C++ (o el lenguaje que uses)
+- C++ 
